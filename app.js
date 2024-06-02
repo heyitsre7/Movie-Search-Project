@@ -49,6 +49,8 @@ button.addEventListener("click", () => {
     });
 
     modal.classList.add("open-modal");
+
+    input.value = "";
 });
 
 modal.addEventListener('click', function(event) {

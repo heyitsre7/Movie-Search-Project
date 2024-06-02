@@ -5,7 +5,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url(https://www.obsev.com/wp-content/uploads/sites/2/2019/03/Movie_Posters_Orange_Blue_Featured.jpg.optimal.jpg);
+  background-image: url(https://preview.redd.it/female-centric-hindi-movies-v0-d9t61sd6d3g91.jpg?auto=webp&s=bf8a614ac8cc89396fadc052896e5276c4a43cd1);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -14,7 +14,7 @@ body {
   width: 400px;
   height: 200px;
   padding: 20px;
-  background-color: rgba(1, 6, 11, 0.752);
+  background-color: rgba(25, 26, 45, 0.848);
   text-align: center;
   color: white;
   border-radius: 30px; 
@@ -30,6 +30,8 @@ input[type=text] {
   margin-top: 8px;
   font-size: 17px;
   border: none;
+  background-color: azure;
+  font-weight: bold;
 }
 
 .container button {
@@ -37,14 +39,14 @@ input[type=text] {
   padding: 6px 10px;
   margin-top: 8px;
   margin-right: 16px;
-  background: #ddd;
+  background: #9227cf;
   font-size: 17px;
   border: none;
   cursor: pointer;
 }
 
 .container button:hover {
-  background: #ccc;
+  background: #cf57d6;
 }
 
 .modal-overlay {
